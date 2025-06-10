@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: graniteviper/landing-page-week-37:6a845ae443ec2a34f1dd09fd3fdec9928b6972fd
+    image: graniteviper/landing-page-week-37:65008a8a3983612feaa1f0b4e6b9e1b15e20de12
     ports:
     - containerPort: 5173
